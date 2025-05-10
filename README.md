@@ -2,7 +2,6 @@ This repository contains a collection of small projects I created while learning
 Each project focuses on a different aspect of UIKit and helps reinforce fundamental concepts through practice.
 
 ## Topics
--------------------
 - UI design with UIKit
 - Using Navigation Controller
 - TableView and Cell management
